@@ -1,0 +1,13 @@
+/Users/nam/Projects/rs/2048/target/debug/deps/quote-7eb613b11c3e380e.rmeta: /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/Users/nam/Projects/rs/2048/target/debug/deps/libquote-7eb613b11c3e380e.rlib: /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/Users/nam/Projects/rs/2048/target/debug/deps/quote-7eb613b11c3e380e.d: /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs:
+/Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs:
+/Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs:
+/Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs:
+/Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs:
+/Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs:
+/Users/nam/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs:

@@ -1,0 +1,1 @@
+/Users/nam/Projects/rs/2048/target/release/libplay_2048.rlib: /Users/nam/Projects/rs/2048/src/board.rs /Users/nam/Projects/rs/2048/src/evaluators.rs /Users/nam/Projects/rs/2048/src/game.rs /Users/nam/Projects/rs/2048/src/lib.rs /Users/nam/Projects/rs/2048/src/solver.rs /Users/nam/Projects/rs/2048/src/utils.rs

@@ -1,0 +1,27 @@
+[package]
+name = "play-2048"
+version = "1.0.0"
+authors = ["nam"]
+keywords = ["game", "2048", "puzzle"]
+categories = ["games", "command-line-utilities"]
+edition = "2018"
+
+
+[dependencies]
+rand = "0.7.3"
+lazy_static = "1.4.0"
+fnv = "1.0.6"
+clap = "2.33.0"
+log = "0.4.8"
+termion = "1.5.5"
+
+[dev-dependencies]
+criterion = "0.3.1"
+
+[[bench]]
+name = "solver"
+harness = false
+
+[[bench]]
+name = "board"
+harness = false
